@@ -9,7 +9,6 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="342.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Button layoutX="243.0" layoutY="274.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="88.0" text="ENTRAR" />
@@ -55,5 +54,6 @@
          </font>
       </Label>
       <PasswordField layoutX="239.0" layoutY="228.0" prefHeight="25.0" prefWidth="336.0" />
+      <Button layoutX="482.0" layoutY="279.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="96.0" text="REGISTRAR" />
    </children>
 </Pane>
